@@ -1,8 +1,3 @@
-/**
- * Copyright 2018 Joshua Bakita
- * Based on work copyright Eric J Nesser
- * MIT Licenced
- */
 // Once everything is loaded, we run our Three.js stuff.
 window.onload = function () {
     // var stats = initStats();
